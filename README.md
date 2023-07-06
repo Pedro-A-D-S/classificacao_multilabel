@@ -12,7 +12,7 @@ Nosso objetivo neste projeto é desenvolver um classificador eficiente capaz de 
 
 ## 📂 Estrutura do Repositório
 
-- O notebook `classificador_tags.ipynb` contém todo o código desenvolvido para a classificação das tags das perguntas.
+- O notebook `projeto_stackoverflow.ipynb` contém todo o código desenvolvido para a classificação das tags das perguntas.
 
 ## 🚀 Começando
 
